@@ -1,2 +1,2 @@
-# Colour-Induced Perceptual Inpainting in the Visual Cortex
+# The Role of Chromatic Stimuli in Modulating Perceptual Inpainting within the Visual Cortex
 

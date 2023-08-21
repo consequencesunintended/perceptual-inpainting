@@ -7,3 +7,6 @@ What presents itself as a colourisation model is in fact an overlay on a segment
 
 https://github.com/consequencesunintended/perceptual-inpainting/assets/44167267/ea0abc22-463e-4f0b-b0bc-08c0c996ff71
 
+
+https://github.com/consequencesunintended/perceptual-inpainting/assets/44167267/6f9a6d2a-983a-4e69-b0fe-e5e22c5184fc
+
